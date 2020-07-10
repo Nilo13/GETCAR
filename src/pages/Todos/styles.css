@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+#cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 84px;
+  margin-right: 84px;
+  margin-bottom: 10px;
+  margin-top: 60px;
+}
+
+.card-mais {
+  background-color: #EFEFEF;
+  border-radius: 5px;
+  min-height: 265px;
+  width: 270px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.imagem-card {
+  border-radius: 5px 5px 0px 0px;
+  height: 160px;
+  width: 270px;
+}
+
+.modelo {
+  margin: 10px 15px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #565656;
+}
+
+.preco {
+  margin: 0 15px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: #242424;
+}
+
+.nu {
+  margin: 10px 15px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: #565656;
+}

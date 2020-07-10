@@ -1,0 +1,66 @@
+#box-publicado {
+  margin: 60px auto;
+  width: 1170px;
+  height: 1950px;
+  background: #F6F6F6;
+  border-radius: 5px;
+}
+
+.infos {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 100px;
+}
+
+.titulo-agencia {
+  padding-top: 50px;
+  font-size: 48px;
+  color: #56CCF2;
+}
+
+.titulo-marca {
+  font-size: 30px;
+  margin-bottom: 60px;
+}
+
+.info-fixa {
+  margin-bottom: -15px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #787878;
+}
+
+.info-dinamica{
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 45px;
+}
+
+.box-contato {
+  margin-top: -1750px;
+  margin-right: 70px;
+  float: right;
+  min-width: 430px;
+  height: 270px;
+  background-color: #FFFF;
+  border-radius: 10px;
+}
+
+.precos {
+  margin-top: 20px;
+  font-size: 48px;
+  text-align: center;
+  color: #56CCF2;
+}
+
+.contato {
+  margin-top: 30px;
+  margin-left: 30px;
+  color: #787878;
+}
+
+.box-contatos {
+  font-weight: bold;
+  color: #787878;
+  margin-left: 30px;
+  margin-top: 25px;
+}

@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  margin-top: 17px;
+}
+
+#header-two {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-two {
+  margin-left: 84px;
+  margin-bottom: 10px;
+}
+
+
+#voltar {
+  margin-right: 84px;
+  display: flex;
+}
+
+.bvoltar, .pvoltar {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  color: #56CCF2;
+}
+
+.pvoltar {
+  margin-left: 5px;
+  color: black;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+.pvoltar:hover {
+  color: #56CCF2;
+}

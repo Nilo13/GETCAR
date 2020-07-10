@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+.banner {
+  margin-top: 60px;
+  width: 100%;
+}
+
+#cards-categorias {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 84px;
+  margin-right: 84px;
+  margin-bottom: 30px;
+}
+
+.mais-vendido {
+  margin-left: 84px;
+  margin-top: 60px;
+  margin-bottom: 10px;
+  color: #56CCF2;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.card-categorias {
+  background-color: #EFEFEF;
+  border-radius: 5px;
+  min-height: 255px;
+  width: 270px;
+}
+
+.card-categorias:hover {
+  background-color: #C4C4C4;
+}
+
+.imagem-categorias {
+  border-radius: 5px 5px 0px 0px;
+  height: 160px;
+  width: 270px;
+}
+
+.categoria {
+  margin: 20px 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: #56CCF2;
+}
+
